@@ -1,0 +1,56 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+.logo{
+  width: 60px;
+}
+.ul{
+	list-style-type: none;
+	font-size: 18px;
+}
+.ul li{
+	display: inline-block;
+	margin: 0px 7px;
+	padding: 20px 0px;
+}
+.ul a{
+	
+}
+.logo_name{
+	font-size: 25px;
+	position: relative;
+}
+.button_get_appoint{
+	background-color: blue;
+    padding: 10px;
+    color: white;
+    border-radius: 5px;
+}
+.text_center{
+	text-align:center;
+}
+.font_size_30{
+	font-size:30px;
+}
+.margin_top_bottom_80{
+	margin:80px 0px;
+}
+.width_100{
+	width: 100%;
+}
+
+
+.para{
+	line-height: 26px;
+    font-size: 17px;
+    word-spacing: 6px;
+}
+
+
+.bottom_border{
+	border-bottom: solid;
+    border-width: 1px;
+    padding: 10px 0px;
+}
